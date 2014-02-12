@@ -4,7 +4,7 @@
 
 ### Books
 
-- The Object-Oriented Thought Process [4th Edition), Matt Weisfeld, (978-0321861276](http://www.amazon.com/dp/0321861272)
+- The Object-Oriented Thought Process (4th Edition), Matt Weisfeld, [978-0321861276](http://www.amazon.com/dp/0321861272)
 
 ## Ruby
 
@@ -36,4 +36,4 @@ Official documentation can be found on [mysql.com](http://dev.mysql.com/doc/).
 
 ### Books
 
-- MySQL [5th Edition), Paul DuBois, (978-0321833877](http://www.amazon.com/dp/0321833872)
+- MySQL (5th Edition), Paul DuBois, [978-0321833877](http://www.amazon.com/dp/0321833872)
