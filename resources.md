@@ -14,9 +14,6 @@ Official documentation can be found on [ruby-doc.org](http://ruby-doc.org/).
 
   - Eloquent Ruby, Russ Olsen, [978-0321584106](http://www.amazon.com/dp/0321584104)
 
-### Podcasts, Screencasts, etc.
-
-
 ### Local Resources 
 
   - Philly.rb: http://phillyrb.org/
