@@ -34,3 +34,11 @@ Official documentation can be found on [mysql.com](http://dev.mysql.com/doc/).
 ### Books
 
 - MySQL (5th Edition), Paul DuBois, [978-0321833877](http://www.amazon.com/dp/0321833872)
+
+## Git
+
+Official documentation can be found on [git-scm.com](http://git-scm.com/docs).
+
+### Books
+
+-  Pro Git, Scott Chacon, [978-1430218333](http://www.amazon.com/dp/1430218339), Available free in its entirety @ git-scm.com/book
